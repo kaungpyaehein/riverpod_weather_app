@@ -1,0 +1,4 @@
+#Fri Aug 04 23:10:46 MMT 2023
+base.0=C\:\\Users\\kaung\\Desktop\\Study\\Ruby Learner\\riverpod_weather_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
